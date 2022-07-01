@@ -1,0 +1,7 @@
+export enum ListItemKey {
+  PORTFOLIO = 'PORTFOLIO',
+  ROUND_UP = 'ROUND_UP',
+  RECURRING = 'RECURRING',
+  BENEFICIARY = 'BENEFICIARY',
+  ONE_TIME = 'ONE_TIME',
+}
